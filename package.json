@@ -1,0 +1,15 @@
+{
+  "name": "dummyjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build-css": "tailwindcss build ./src/styles.css -o ./public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
